@@ -1,0 +1,18 @@
+.card-columns .card {
+    margin-bottom: .75rem;
+    max-width: 50%;
+    margin-left: auto;
+    margin-top: 15rem;
+    position: relative;
+    margin-right: auto;
+    color: rgb(184, 6, 6);
+    
+
+ }
+ @media( $extra-small-devices, $extra-large-devices ){
+    margin-left: 20rem;
+    margin-right: -15rem; 
+    
+
+}
+

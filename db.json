@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Burger Vs Steake",
+      "description": "you can like both, but if you where really hungry, what would would be your food of prefrence"
+    },
+    {
+      "id": 2,
+      "title": "Beyonce is overratted ",
+      "description": "not saying shes bad but deffintly not the hype "
+    },
+    {
+      "id": 3,
+      "title": "Kanye is the best rapper  ",
+      "description": "hes a litereal genuis and he never misses on  any song  "
+    }
+  ],
+  "posts": [
+    {
+      "topicid": 1,
+      "userid": 1,
+      "title": "stake!!",
+      "content": "people who think that burgers are better than steakes have imature tastebuds "
+    },
+    {
+      "topicid": 1,
+      "userid": 3,
+      "title": "burgers",
+      "content": "burgeers any day !! steake is good dont get me worng but burgers.... cmon man we all know they always slap "
+    },
+    {
+      "topicid": 2,
+      "userid": 2,
+      "title": "i think shes rated perfectly",
+      "content": "could be her later music is more r&b style which can be offputting but on the whole shes an amazing perfomer and has insane stage presenseand we didnt even start on her vocals... "
+    }
+  ]
+}
